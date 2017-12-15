@@ -1,5 +1,5 @@
 {
-    "game" : "[p]help",
+    	"game" : "[p]help",
 	"token" : "your_token_here",
 	"version" : "v1.0",
 	"prefix" : "$"
